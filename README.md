@@ -2,10 +2,8 @@
 
 🎓 Estudante de Engenharia de Software | 💻 Desenvolvedor Full Stack em formação  
 📍 Belo Horizonte – MG, Brasil  
-📬 albertluis123y88@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/albert-luis-053177209) | [GitHub](https://github.com/SrGuzz)
 
----
+<br>
 
 ## Sobre mim
 
@@ -15,26 +13,37 @@ Atualmente estou cursando o 5º semestre de Engenharia de Software pela **PUC Mi
 
 Tenho experiência prática com **Laravel**, **Livewire**, **Spring Boot**, **React**, **Tailwind** e **MySQL**, sempre aplicando princípios como **Clean Code**, **SOLID** e **metodologias ágeis**.
 
----
+<br>
 
 ## Tecnologias que venho utilizando
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="34" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="34" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
+  <img width="34" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
----
+<br>
 
 ## Projetos em destaque
 
@@ -46,7 +55,7 @@ Aplicação interna da Controladoria para rastreio de ativos de TI, com históri
 
 > *Explore meus repositórios para ver mais projetos!*
 
----
+<br>
 
 ## Estatísticas
 
@@ -55,7 +64,7 @@ Aplicação interna da Controladoria para rastreio de ativos de TI, com históri
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrGuzz&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
 
----
+<br>
 
 ## Conecte-se comigo
 
@@ -76,13 +85,3 @@ Aplicação interna da Controladoria para rastreio de ativos de TI, com históri
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
-
----
-
-## Contribuições recentes
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrGuzz/SrGuzz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrGuzz/SrGuzz/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/SrGuzz/SrGuzz/output/pacman-contribution-graph.svg">
-</picture>
